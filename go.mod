@@ -1,4 +1,4 @@
-module github.com/alphyron/telegram-bot-api
+module github.com/Alphyron/telegram-bot-api
 
 go 1.12
 
